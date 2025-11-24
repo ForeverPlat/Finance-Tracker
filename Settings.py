@@ -1,18 +1,15 @@
-#text sizes
-FONT = 'Calibri'
-MAIN_TEXT_SIZE = 20
-TEMP_ENTRY_TEXT_SIZE = 20
-ENTRY_TEXT_SIZE = 30
-BUTTON_TEXT_SIZE = 40
+FONT = "Calibri"
 
-#colors
-BG = "#8758e5"
-FOREGROUND_COLOR = '#774fc6'
-BUTTON_COLOR = '#5e3e9d'
-BUTTON_HOVER = '#3e2968'
-GREEN = '#b5dabb'
-RED = '#ca7272'
-WHITE = '#d9d9d9'
+MAIN_TEXT_SIZE = 45
+SUB_TEXT_SIZE = 14
+ENTRY_TEXT_SIZE = 22
+BUTTON_TEXT_SIZE = 16
 
-#title hex
-TITLE_HEX_COLOR = 0x008758e5
+# Colors (dark theme)
+BG = "#1e1e24"
+PANEL = "#2b2b34"
+ACCENT = "#00adb5"
+WHITE = "#f7f7f7"
+GREEN = "#7bd88f"
+RED = "#ff6b6b"
+MUTED = "#aaaaaa"
