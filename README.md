@@ -32,5 +32,5 @@ It lets you:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/finance-tracker.git
+git clone https://github.com/foreverplat/finance-tracker.git
 cd finance-tracker
