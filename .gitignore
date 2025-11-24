@@ -1,0 +1,56 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db-journal
+*.sqlite3
+
+# --- Virtual Environment ---
+venv/
+env/
+
+# --- macOS files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r to be recognized
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk drives
+.Spotlight-V100
+.Trashes
+
+# --- Byte-compiled / optimized files ---
+*.py[cod]
+*$py.class
+
+# --- SQLite database files ---
+tracking.db
+
+
+# --- Logs ---
+*.log
+
+# --- VS Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Backup files ---
+*.bak
+*.swp
+*.swo
+
+# --- Local configuration ---
+settings_local.py
+.env
+
+# --- Build artifacts ---
+build/
+dist/
+*.egg-info/
